@@ -3,9 +3,12 @@
  *
  * This code sets up a button that can trigger an event on IFTTT
  * You can set it up here: https://ifttt.com/
+ * Make it do anything!
  *
- * Thanks to https://www.makeuseof.com/tag/wifi-connected-button-esp8266-tutorial/
-*/
+ * Thanks to:
+ * https://www.makeuseof.com/tag/wifi-connected-button-esp8266-tutorial/
+ * https://github.com/beamzer/Wemos-IFTTT-Button
+ */
 
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
