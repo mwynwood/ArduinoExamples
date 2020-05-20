@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
  * Based on code found here: 
  * http://arduino-tutorials.eu/arduino-keypad-lock-tutorial
@@ -76,7 +75,6 @@ void setLocked(int locked) {
     servoblue.write(0); //..and the servo should turn to a 0 degree position.
   }
 }
-=======
 /*
  * Based on code found here: 
  * http://arduino-tutorials.eu/arduino-keypad-lock-tutorial
@@ -154,4 +152,3 @@ void setLocked(int locked) {
     servoblue.write(0); //..and the servo should turn to a 0 degree position.
   }
 }
->>>>>>> bdb0c1012cfddd45f367b26ce7d8e6b1ffc63e88
